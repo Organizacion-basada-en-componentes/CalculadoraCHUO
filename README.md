@@ -1,10 +1,11 @@
 # CalculadoraCHUO
 
-# Practica 8 
+## Practica 8 
 Gestión de proyecto de calculadora para el Complejo Hospitalario Universitario de Ourense (CHUO).
 
-# Miembros
+## Miembros
 
--  Alejandro Silva Rodríguez
--  Diego de Pablo
+-  Diego De Pablo ([User: Diegodepab](https://github.com/Diegodepab))
+-  Alejandro Silva Rodríguez ([User: AlexSilvaa9](https://github.com/AlexSilvaa9))
+-  Álvaro Gil Varela ([User: aalvarogv](https://github.com/aalvarogv))
   
